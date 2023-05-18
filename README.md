@@ -55,8 +55,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
-## RESULT:
+## OUTPUT:
 ![output](op1.png)
 
-## OUTPUT:
+## RESULT:
 Hence the data has been analysed using Coeffificient of Correlation and Regression line. 
