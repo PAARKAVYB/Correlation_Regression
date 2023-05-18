@@ -1,6 +1,6 @@
 # CORRELATION AND REGRESSION FOR DATA ANALYSIS
 ## AIM:
-To analyse given data using coeffificient of correlation and regression line
+To analyze given data using coefficient of correlation and regression line.
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
 ## SOFTWARE REQUIRED:
@@ -59,4 +59,4 @@ plt.legend(['Regression Line','Data points'])
 ![op1](https://github.com/PAARKAVYB/Correlation_Regression/assets/93509383/d4ea3d03-d684-48e4-a95e-3997f4f09b7a)
 
 ## RESULT:
-Hence the data has been analysed using Coeffificient of Correlation and Regression line. 
+Hence the data has been analyzed using Coefficient of Correlation and Regression line. 
